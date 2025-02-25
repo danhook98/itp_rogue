@@ -31,8 +31,8 @@ std::string instructions = R"(
 
 w = Move up
 a = Move left
-s = Move right
-d = Move down
+s = Move down
+d = Move right
 i = Check inventory
 q = Quit game
 
